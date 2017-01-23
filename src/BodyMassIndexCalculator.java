@@ -4,6 +4,8 @@ import java.awt.event.ActionListener;
 
 /**
  * @author Name und Vorname setzen
+ *
+ * Im Anschluss Datei senden an msferlazza@gmail.com
  */
 public class BodyMassIndexCalculator implements ActionListener {
     private JFrame frame;
